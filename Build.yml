@@ -62,4 +62,3 @@ jobs:
       with:
         name: Ai-automation-engineer-APK
         path: app/build/outputs/apk/debug/*.apk
-        
